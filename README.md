@@ -171,7 +171,7 @@ For further questions, feel free to open an issue in the repository or contact m
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
 
 `requirements.txt` Content
 
@@ -192,6 +192,6 @@ To install these dependencies, simply run:
 
 ```bash
 pip install -r requirements.txt
-```
+
 
 This will install all the required libraries for the script to function correctly.
