@@ -1,4 +1,3 @@
-```markdown
 # Photogrammetry Script for 3D Model Creation
 
 ## Introduction
