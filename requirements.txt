@@ -1,0 +1,1 @@
+Metashape opencv-python numpy scipy matplotlib pillow pyvista scikit-learn
