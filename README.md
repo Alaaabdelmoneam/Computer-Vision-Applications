@@ -192,6 +192,6 @@ To install these dependencies, simply run:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 This will install all the required libraries for the script to function correctly.
