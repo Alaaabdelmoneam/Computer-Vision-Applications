@@ -21,7 +21,7 @@ Run the following command to install the necessary libraries:
 pip install -r requirements.txt
 ```
 
-The `requirements.txt` file includes the following dependencies:
+The `requirements.txt` file attached includes the following dependencies:
 - OpenCV
 - NumPy
 - SciPy
@@ -29,6 +29,8 @@ The `requirements.txt` file includes the following dependencies:
 - Pillow
 - PCL (Point Cloud Library)
 - PyVista (for 3D visualization)
+- scikit-learn
+
 
 ### Additional Software (Required for Metashape)
 To process and build the 3D models, you will need **Metashape** (formerly Agisoft Photoscan). The script uses the **Metashape Python API** for advanced photogrammetry tasks.
@@ -170,25 +172,3 @@ For further questions, feel free to open an issue in the repository or contact m
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-`requirements.txt` Content
-
-Here’s the content for the `requirements.txt` file, which includes the necessary libraries for the script:
-
-```
-Metashape
-opencv-python
-numpy
-scipy
-matplotlib
-pillow
-pyvista
-scikit-learn
-```
-
-To install these dependencies, simply run:
-
-```bash
-pip install -r requirements.txt
-```
-
-This will install all the required libraries for the script to function correctly.
