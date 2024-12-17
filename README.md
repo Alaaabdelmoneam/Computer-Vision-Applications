@@ -1,5 +1,3 @@
-Here's the complete `README.md` file formatted for your photogrammetry script project:
-
 ```markdown
 # Photogrammetry Script for 3D Model Creation
 
