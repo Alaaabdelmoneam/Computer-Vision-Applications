@@ -173,7 +173,7 @@ For further questions, feel free to open an issue in the repository or contact m
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-### `requirements.txt` Content
+`requirements.txt` Content
 
 Here’s the content for the `requirements.txt` file, which includes the necessary libraries for the script:
 
